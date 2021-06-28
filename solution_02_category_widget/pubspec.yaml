@@ -1,5 +1,5 @@
-name: udacity_flutter
-description: Learn Flutter following Udacity course
+name: solution_02_category_widget
+description: Work in progress for a Unit Converter app.
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `pub publish`. This is preferred for private packages.

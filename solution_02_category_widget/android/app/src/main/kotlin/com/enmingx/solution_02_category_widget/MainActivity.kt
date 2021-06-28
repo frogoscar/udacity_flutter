@@ -1,4 +1,4 @@
-package com.enmingx.udacity_flutter
+package com.enmingx.solution_02_category_widget
 
 import io.flutter.embedding.android.FlutterActivity
 

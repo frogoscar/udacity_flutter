@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.enmingx.udacity_flutter">
+    package="com.enmingx.solution_02_category_widget">
    <application
-        android:label="udacity_flutter"
+        android:label="solution_02_category_widget"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
